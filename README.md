@@ -3,4 +3,4 @@ This repository contains the final code and report of my DNSC-6211 ( Programming
 
 Link to project overview video on youtube: 
 
-https://www.youtube.com/watch?v=PLiws94MQ_U&t=18s&list=PLbL0ew0zpFX8x9UvsKKX5YjzE4wmff7Mq&index=7
+https://www.youtube.com/watch?v=PLiws94MQ_U
